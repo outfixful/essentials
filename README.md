@@ -1,0 +1,4 @@
+essentials
+==========
+
+config.php

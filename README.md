@@ -393,6 +393,7 @@ kits:
       - 401 1 name:Angry_Creeper color:red fade:green type:creeper power:1
       - 401 1 name:StarryNight color:yellow,orange fade:blue type:star effect:trail,twinkle power:1
       - 401 2 name:SolarWind color:yellow,orange fade:red shape:large effect:twinkle color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink shape:star effect:trail power:1
+  udali ten tekst i napish CTRL+V
 
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
